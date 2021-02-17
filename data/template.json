@@ -1,0 +1,6 @@
+{
+    "SOME_EVENT" : {
+		"id":"ID_HASH_VALUE",
+		"msg":["EVENT_TYPE", "DESCRIPTION"]
+	}
+}
