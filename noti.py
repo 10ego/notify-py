@@ -47,5 +47,5 @@ if __name__ == '__main__':
     if members:
         members = members.split(',')
     else:
-        members = ['warren', 'erico', 'dan', 'ted']
+        members = ['me','also_me']
     notify(members, 'vm_reboot', message)
